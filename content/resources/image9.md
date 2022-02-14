@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: Adding a path for a switch made of painted paper
+type: OCWImage
 uid: f761b62f-4df2-d475-526f-2d316fa7bbb2
 ---

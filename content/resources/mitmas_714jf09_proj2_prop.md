@@ -4,7 +4,12 @@ description: Proposal for an example student project on constructionist architec
   for adventure classrooms.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-714j-technologies-for-creative-learning-fall-2009/c4bf353ae28acdd6fc2fb7874f53af25_MITMAS_714JF09_proj2_prop.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Final Project Proposal
+type: OCWFile
 uid: c4bf353a-e28a-cdd6-fc2f-b7874f53af25
 ---

@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: LED with bent legs glued to the paper
+type: OCWImage
 uid: 5b7438ad-ad92-ddeb-977d-58c2c001f9b7
 ---

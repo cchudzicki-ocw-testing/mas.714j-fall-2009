@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: An actual paper sensor
+type: OCWImage
 uid: 5c125823-d7e2-a702-7458-99b521c01d3f
 ---

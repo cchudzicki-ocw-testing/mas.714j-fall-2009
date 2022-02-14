@@ -7,8 +7,13 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: Diagram illustrating the use of a variable graphite resistor connected to the
   tearDrop
+type: OCWImage
 uid: 320ba03f-24b2-c479-5b02-0f77a530ae2a
 ---

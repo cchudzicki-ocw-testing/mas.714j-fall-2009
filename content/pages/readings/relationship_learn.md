@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #7: Relationships in Learning'
+type: CourseSection
 uid: 8eab4c2e-9bca-98e8-932d-b02a0e487d04
 ---
 
@@ -44,10 +48,10 @@ Tasks for this week:
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 QUESTIONS posted to Google Moderator page
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 VOTES
 {{< thclose >}}
 

@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: Kit LEDs, with stripe indicating the negative end
+type: OCWImage
 uid: bfbc2d43-6f7b-e381-212b-aa78b56ef5d1
 ---

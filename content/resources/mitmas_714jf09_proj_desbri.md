@@ -4,7 +4,12 @@ description: Outline of the key elements of a design brief for the final project
   the course.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-714j-technologies-for-creative-learning-fall-2009/20653627be749d714513b5475bbfed88_MITMAS_714JF09_proj_desbri.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Elements of a Design Brief
+type: OCWFile
 uid: 20653627-be74-9d71-4513-b5475bbfed88
 ---

@@ -5,7 +5,12 @@ description: Supporting material for an example student project to introduce edu
   mathematics (STEM) concepts through robotics.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-714j-technologies-for-creative-learning-fall-2009/b73ce78c53f1efbfa051860f7d6115f8_MITMAS_714JF09_proj1_postr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Artbotics Exploration Poster
+type: OCWFile
 uid: b73ce78c-53f1-efbf-a051-860f7d6115f8
 ---

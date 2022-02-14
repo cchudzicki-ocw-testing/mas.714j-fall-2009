@@ -8,7 +8,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: Path for an LED between + and -
+type: OCWImage
 uid: e9184ea4-d9c5-fce8-92cc-34716d187f01
 ---
