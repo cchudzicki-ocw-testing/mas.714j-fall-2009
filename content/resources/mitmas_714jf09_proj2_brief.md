@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: 'Ting-Bing: Constructionist Architecture for Adventure Classrooms'
-type: OCWFile
 uid: a3162dbc-4de0-46e3-f231-c72277bd7fe3
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Final Project Proposal
-type: OCWFile
 uid: bf92a207-caa0-3172-0b1d-ccf0f9ce4c6b
 ---

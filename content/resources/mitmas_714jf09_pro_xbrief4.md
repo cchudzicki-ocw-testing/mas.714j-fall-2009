@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Tinkering Together: enabling synchronous creativity and distributed collaboration
   for kids'
-type: OCWFile
 uid: a001f3cd-8194-6089-7000-73600177441d
 ---

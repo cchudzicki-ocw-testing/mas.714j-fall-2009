@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Artbotics Exploration Poster
-type: OCWFile
 uid: b73ce78c-53f1-efbf-a051-860f7d6115f8
 ---

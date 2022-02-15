@@ -13,6 +13,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Image
 title: Somewhere, something went terribly wrong
-type: OCWImage
 uid: 1dff14e1-cbdc-6469-8c05-ba16ecc6e817
 ---

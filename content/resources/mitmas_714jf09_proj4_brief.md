@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Using Scratch to enhance students' 21st century scientific thinking skills
-type: OCWFile
 uid: acd59af7-ae08-f937-4fd9-a39c40a2205b
 ---

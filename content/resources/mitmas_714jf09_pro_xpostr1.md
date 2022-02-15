@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Utilizing Technology to Support the Development of Empathy
-type: OCWFile
 uid: a332cfdd-9e75-419e-221a-d6655b83a57a
 ---

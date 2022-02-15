@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Ting-Bing Poster
-type: OCWFile
 uid: e8bc5b03-ebc8-659e-fd83-99cc9ac397ec
 ---

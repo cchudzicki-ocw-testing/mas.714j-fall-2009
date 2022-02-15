@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Reflection via Communication in Scratch
-type: OCWFile
 uid: 351e0430-310b-3996-bac0-ffaf0c5078a6
 ---

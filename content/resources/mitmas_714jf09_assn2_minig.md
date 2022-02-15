@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: WeDo MiniGuide
-type: OCWFile
 uid: c72c2445-cb6f-ce06-9fd5-adb556248c43
 ---

@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Object Investigator
-type: OCWFile
 uid: ecb30687-b553-01f9-446b-497ac332bdf8
 ---

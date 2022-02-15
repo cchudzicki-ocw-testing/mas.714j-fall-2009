@@ -14,6 +14,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Image
 title: Tracing the tearDrop on paper
-type: OCWImage
 uid: a3ad8718-e227-a697-cbc8-e1778190408e
 ---

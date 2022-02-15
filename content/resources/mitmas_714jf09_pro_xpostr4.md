@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Topic Models and Data Portraiture
-type: OCWFile
 uid: 0c07a97f-2d02-4bdc-260c-8c53246f6887
 ---

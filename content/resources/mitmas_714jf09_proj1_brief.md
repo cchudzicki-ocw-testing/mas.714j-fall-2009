@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: A Brief Artbotics Exploration for Educators
-type: OCWFile
 uid: 4c743406-8260-6f5e-5515-f838b5832bba
 ---

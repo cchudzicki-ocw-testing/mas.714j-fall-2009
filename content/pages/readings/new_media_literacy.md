@@ -6,7 +6,6 @@ parent_title: Readings
 parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #4: New Media Literacy'
-type: CourseSection
 uid: 7df06c0f-1fcb-614d-e6cd-fff4001d06f9
 ---
 

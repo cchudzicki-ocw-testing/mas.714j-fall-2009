@@ -13,6 +13,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Image
 title: Paper computing construction kit
-type: OCWImage
 uid: 5d5f7cfd-6831-c064-55c5-88aeb4b0f198
 ---

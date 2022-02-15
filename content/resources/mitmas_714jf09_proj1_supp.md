@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Overview, Hardware and Software Reference
-type: OCWFile
 uid: 5f5d7e40-6db7-8f09-9289-3bb77bb6acc1
 ---

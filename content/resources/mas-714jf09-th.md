@@ -16,6 +16,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: Hands playing four foil "drums" wired to a computer
-type: OCWImage
 uid: 67e798dc-af86-763a-85a9-5bb42e4f0ca0
 ---

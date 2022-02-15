@@ -13,6 +13,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Image
 title: Hook-Ups
-type: OCWImage
 uid: a23d9a04-4017-b576-c76a-947778738205
 ---

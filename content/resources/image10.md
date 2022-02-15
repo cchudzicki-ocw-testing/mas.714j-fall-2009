@@ -13,6 +13,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Image
 title: With the switch closed, the LED lights
-type: OCWImage
 uid: 59d7d58b-77f2-7754-6386-6e02787298a2
 ---

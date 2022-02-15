@@ -14,6 +14,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Image
 title: "The painted LED connection between + and \u2013 on the tearDrop"
-type: OCWImage
 uid: e72727ad-7dfb-92e3-9a40-408f12bf13f3
 ---

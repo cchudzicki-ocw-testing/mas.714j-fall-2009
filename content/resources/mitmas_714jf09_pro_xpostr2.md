@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ScratchEd Poster
-type: OCWFile
 uid: 11ab5c0a-ba2a-73c2-abb9-7672686f91b0
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Elements of a Design Brief
-type: OCWFile
 uid: 20653627-be74-9d71-4513-b5475bbfed88
 ---
