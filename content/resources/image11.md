@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Assignments
+ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Image

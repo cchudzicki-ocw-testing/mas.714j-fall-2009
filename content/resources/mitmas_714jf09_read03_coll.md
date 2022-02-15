@@ -7,6 +7,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-714j-tec
 file_type: application/pdf
 learning_resource_types:
 - Readings
+ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document

@@ -14,6 +14,7 @@ image_metadata:
   image-alt: "Photo showing hands playing four foil \u201Cdrums\u201D wired to a computer,\
     \ with the Scratch cat character animated on screen."
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Hands playing four foil "drums" wired to a computer
 uid: 67e798dc-af86-763a-85a9-5bb42e4f0ca0

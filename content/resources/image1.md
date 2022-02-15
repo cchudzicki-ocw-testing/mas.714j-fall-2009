@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Image
