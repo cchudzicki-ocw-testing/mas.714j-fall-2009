@@ -73,7 +73,7 @@ Resnick, M., J. Maloney, A. Monroy-Hernandez, N. Rusk, E. Eastmond, K. Brennan, 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/constructionism))
+({{< resource_link 68f88ba3-97d4-8c6f-9948-b30a79997146 "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +91,7 @@ Learning sciences
 
 Sawyer, K. "The New Science of Learning." Chapter 1 in _The Cambridge Handbook of The Learning Sciences_. Edited by K. Sawyer. New York, NY: Cambridge University Press, 2006. ISBN: 9780521845540. \[Preview in [Google Books](http://books.google.com/books?id=lWGLNdAsCRwC&lpg=PP1&pg=PA1#v=onepage&q&f=false)\]
 
-Synopsis of arguments in the book Collins, A., and R. Halverson. _Rethinking Education in the Age of Technology: The Digital Revolution and the Schools_. New York, NY: Teachers College Press, 2009. ISBN: 9780807750025. ([PDF]({{< baseurl >}}/resources/mitmas_714jf09_read03_coll)) (Courtesy of Allan Collins and Richard Halverson. Used with permission. )
+Synopsis of arguments in the book Collins, A., and R. Halverson. _Rethinking Education in the Age of Technology: The Digital Revolution and the Schools_. New York, NY: Teachers College Press, 2009. ISBN: 9780807750025. ({{< resource_link d618b0b2-0780-773b-64cb-1afa397dbcec "PDF" >}}) (Courtesy of Allan Collins and Richard Halverson. Used with permission. )
 
 ### Optional
 
@@ -100,7 +100,7 @@ Kolodner, J. L. "The Learning Sciences: Past, Present, and Future." _Educational
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/learning_sciences))
+({{< resource_link d54b8934-0db1-f8e6-0642-31311b7a311f "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Jenkins, H., et al. "Confronting the Challenges of Participatory Culture: Media 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/new_media_literacy))
+({{< resource_link 7df06c0f-1fcb-614d-e6cd-fff4001d06f9 "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +152,7 @@ Resnick, M., F. Martin, R. Berg, R. Borovoy, V. Colella, K. Kramer, and B. Silve
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/tangible_learning))
+({{< resource_link 991e9853-7417-ef44-682d-2a49666dbde6 "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +181,7 @@ Brown, J. S., and R. Adler. "Minds on Fire." _Educause Review_ 43, no. 1 (2008):
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/communities_learners))
+({{< resource_link 520f5c9d-682d-ec49-426c-2b5dd745bd51 "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +207,7 @@ Duckworth, E. "The Having of Wonderful Ideas." Chapter 1 in "_The Having of Wond
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/relationship_learn))
+({{< resource_link 8eab4c2e-9bca-98e8-932d-b02a0e487d04 "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +234,7 @@ Barab, S. A., J. G. MaKinster, and R. Scheckler. "[Designing System Dualities: C
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/supporting_communitie))
+({{< resource_link f867986d-9d09-3991-5114-b71f0a2b1ad3 "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +263,7 @@ Gardner, H. "A Multiplicity of Intelligences: In Tribute to Professor Luigi Vign
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/diversity_pluralism))
+({{< resource_link 2c9780a9-db42-5747-6981-812156907da5 "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +292,7 @@ Kafai, Y. B. "Playing and Making Games for Learning: Instructionist and Construc
 
 {{< tdclose >}}
 {{< tdopen >}}
-([HTML]({{< baseurl >}}/pages/readings/games_learning))
+({{< resource_link 7993346d-ebea-a95f-b7e3-fbebf5941fa1 "HTML" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
