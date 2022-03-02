@@ -7,7 +7,7 @@ title: Assignments
 uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 ---
 
-This page presents the weekly activity assignments other than those directly related to the final {{< resource_link 040f9e59-6860-d1e0-ab3c-3d65f2311165 "project" >}}.
+This page presents the weekly activity assignments other than those directly related to the final {{% resource_link 040f9e59-6860-d1e0-ab3c-3d65f2311165 "project" %}}.
 
 1\. Scratch Project
 -------------------
@@ -26,7 +26,7 @@ In class, we'll be discussing our experiences with this activity. Some questions
 
 For this week's activity, you are asked to create a story that combines on-screen and off-screen, using [LEGO® Education WeDo](https://education.lego.com/en-us/products/lego-education-wedo-2-0-core-set/45300?ef_id=Cj0KCQiA48j9BRC-ARIsAMQu3WTdxVAp18sco6uD_RuSuYCVRBQUkNsvstw33Bj-foPdgcvqMmMV81gaAgwsEALw_wcB:G:s&s_kwcid=AL!790!3!361643866782!e!!g!!lego%20education%20wedo%202.0&gclid=Cj0KCQiA48j9BRC-ARIsAMQu3WTdxVAp18sco6uD_RuSuYCVRBQUkNsvstw33Bj-foPdgcvqMmMV81gaAgwsEALw_wcB#wedo-20)™ and [Scratch](http://scratch.mit.edu/).
 
-To help you get started, here's a Scratch/WeDo miniguide ({{< resource_link c72c2445-cb6f-ce06-9fd5-adb556248c43 "PDF" >}}). Also consult our class collection of WeDo building instructions for different projects.
+To help you get started, here's a Scratch/WeDo miniguide ({{% resource_link c72c2445-cb6f-ce06-9fd5-adb556248c43 "PDF" %}}). Also consult our class collection of WeDo building instructions for different projects.
 
 In class, we'll be sharing our Scratch/WeDo creations and our experiences with the activity. Some questions to think about:
 
@@ -213,7 +213,7 @@ To document your Scratch Board project, we'd like you to create an additional Sc
 
 Please upload both of your Scratch projects (the Scratch Board project and the documentation project) to the Scratch Web site. Please include links to both of the projects as a comment.
 
-If you'd like to see examples from last year's class, check out their {{< resource_link f0a12d5c-af27-014d-5bda-052f85628697 "Scratch Sensor Board resource page" >}}.
+If you'd like to see examples from last year's class, check out their {{% resource_link f0a12d5c-af27-014d-5bda-052f85628697 "Scratch Sensor Board resource page" %}}.
 
 In class, we'll be sharing our experiences with the activity. How did these experiences (and your experiences with the WeDo) shape your understandings of the connection between the physical and the virtual?
 
@@ -391,12 +391,12 @@ In class, we'll be sharing our experiences. How did you approach the task? What 
 
 ### Examples of Student Work
 
-{{< resource_link a77f0dea-42dd-6b6f-2fa2-db8cc25322fe "Compiled class blog postings" >}}
+{{% resource_link a77f0dea-42dd-6b6f-2fa2-db8cc25322fe "Compiled class blog postings" %}}
 
 7\. Paper Computing
 -------------------
 
-This week's activity asks you to create an interactive painting using Leah Buechley's {{< resource_link 600a586c-9d17-af4c-9d3c-848d868e8d3c "Paper Computing kit" >}}.
+This week's activity asks you to create an interactive painting using Leah Buechley's {{% resource_link 600a586c-9d17-af4c-9d3c-848d868e8d3c "Paper Computing kit" %}}.
 
 Please take pictures to document your painting.
 
