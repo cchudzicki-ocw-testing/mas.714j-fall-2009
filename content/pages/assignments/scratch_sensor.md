@@ -16,7 +16,7 @@ video_metadata:
 
 This page was created by Amon Millner during the 2008 course. (Courtesy of Amon Millner. Used with permission.)
 
-![Image, spelling 'Hook-Ups' using different physical objects.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/assn4_banner.jpg)
+{{< resource a23d9a04-4017-b576-c76a-947778738205 "Image, spelling 'Hook-Ups' using different physical objects." >}}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Getting Set Up
