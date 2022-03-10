@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Ting-Bing Poster
 uid: e8bc5b03-ebc8-659e-fd83-99cc9ac397ec
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

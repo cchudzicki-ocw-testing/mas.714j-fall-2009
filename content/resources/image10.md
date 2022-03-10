@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: With the switch closed, the LED lights
 uid: 59d7d58b-77f2-7754-6386-6e02787298a2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

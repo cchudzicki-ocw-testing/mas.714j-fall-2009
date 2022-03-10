@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page lists the required and optional readings for each class session, plus excerpts from the students' reading responses blog (courtesy of the students and used with permission).

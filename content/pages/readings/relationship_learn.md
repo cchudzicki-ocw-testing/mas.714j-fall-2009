@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #7: Relationships in Learning'
 uid: 8eab4c2e-9bca-98e8-932d-b02a0e487d04
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Reflection and Questions

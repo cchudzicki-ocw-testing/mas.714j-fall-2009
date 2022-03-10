@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Photo of painted lines onto the LED leads
 uid: f80a0965-6a60-22be-6710-4ed0bad6a4e4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Object Investigator
 uid: ecb30687-b553-01f9-446b-497ac332bdf8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

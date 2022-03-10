@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Reflection via Communication in Scratch
 uid: 351e0430-310b-3996-bac0-ffaf0c5078a6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

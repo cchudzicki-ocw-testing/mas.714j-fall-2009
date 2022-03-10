@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ScratchEd Poster
 uid: 11ab5c0a-ba2a-73c2-abb9-7672686f91b0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

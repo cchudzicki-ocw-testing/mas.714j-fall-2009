@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Tracing the tearDrop on paper
 uid: a3ad8718-e227-a697-cbc8-e1778190408e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

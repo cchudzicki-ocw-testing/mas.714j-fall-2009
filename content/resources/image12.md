@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: An actual paper sensor
 uid: 5c125823-d7e2-a702-7458-99b521c01d3f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

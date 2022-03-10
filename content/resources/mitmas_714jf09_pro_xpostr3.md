@@ -14,4 +14,8 @@ resourcetype: Document
 title: A Networked, Media-Rich Programming Environment to Enhance Informal Learning
   and Technological Fluency at Community Technology Centers
 uid: 2a897a44-1d68-73ed-969c-0995d197690b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

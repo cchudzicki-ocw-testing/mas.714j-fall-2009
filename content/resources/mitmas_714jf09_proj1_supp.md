@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Overview, Hardware and Software Reference
 uid: 5f5d7e40-6db7-8f09-9289-3bb77bb6acc1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

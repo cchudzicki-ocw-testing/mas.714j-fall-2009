@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Elements of a Design Brief
 uid: 20653627-be74-9d71-4513-b5475bbfed88
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

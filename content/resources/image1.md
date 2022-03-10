@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Somewhere, something went terribly wrong
 uid: 1dff14e1-cbdc-6469-8c05-ba16ecc6e817
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

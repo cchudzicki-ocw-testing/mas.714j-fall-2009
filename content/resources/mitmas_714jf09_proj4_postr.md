@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Using Scratch to Enhance Students' 21st Century Scientific Thinking Skills
 uid: 24ce62fb-9e88-ba06-f7dd-b0fdbf2b5c84
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

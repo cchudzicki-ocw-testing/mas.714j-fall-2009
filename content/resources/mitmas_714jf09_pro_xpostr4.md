@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Topic Models and Data Portraiture
 uid: 0c07a97f-2d02-4bdc-260c-8c53246f6887
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

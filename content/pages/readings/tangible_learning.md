@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #5: Tangible Learning'
 uid: 991e9853-7417-ef44-682d-2a49666dbde6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Reflection and Questions

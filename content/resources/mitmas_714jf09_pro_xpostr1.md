@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Utilizing Technology to Support the Development of Empathy
 uid: a332cfdd-9e75-419e-221a-d6655b83a57a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

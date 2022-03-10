@@ -13,4 +13,8 @@ resourcetype: Document
 title: 'Tinkering Together: enabling synchronous creativity and distributed collaboration
   for kids'
 uid: a001f3cd-8194-6089-7000-73600177441d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

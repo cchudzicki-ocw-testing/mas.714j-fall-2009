@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Kit LEDs, with stripe indicating the negative end
 uid: bfbc2d43-6f7b-e381-212b-aa78b56ef5d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

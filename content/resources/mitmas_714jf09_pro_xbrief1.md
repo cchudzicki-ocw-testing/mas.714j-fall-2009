@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Designing Groups for Scratch: Conceptual Exploration'
 uid: cf2e580a-805e-4ecb-8d59-6c9d64cd968e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

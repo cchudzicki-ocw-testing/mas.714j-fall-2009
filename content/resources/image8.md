@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: "The painted LED connection between + and \u2013 on the tearDrop"
 uid: e72727ad-7dfb-92e3-9a40-408f12bf13f3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

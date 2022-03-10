@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #10: Games and Learning'
 uid: 7993346d-ebea-a95f-b7e3-fbebf5941fa1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Reflection and Questions

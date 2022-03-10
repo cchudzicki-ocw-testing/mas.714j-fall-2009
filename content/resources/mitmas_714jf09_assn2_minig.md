@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: WeDo MiniGuide
 uid: c72c2445-cb6f-ce06-9fd5-adb556248c43
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

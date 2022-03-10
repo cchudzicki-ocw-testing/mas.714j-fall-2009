@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Close up of the tearDrop Arduino
 uid: 502ee9e6-320a-c38e-e84e-29258db8293f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

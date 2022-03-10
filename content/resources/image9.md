@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Adding a path for a switch made of painted paper
 uid: f761b62f-4df2-d475-526f-2d316fa7bbb2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

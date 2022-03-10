@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Paper computing construction kit
 uid: 5d5f7cfd-6831-c064-55c5-88aeb4b0f198
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

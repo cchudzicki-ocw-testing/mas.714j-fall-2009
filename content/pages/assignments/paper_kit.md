@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 3940422b-f70a-5acd-de7f-de33eabc7213
 title: Paper Computing Tutorial
 uid: 600a586c-9d17-af4c-9d3c-848d868e8d3c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 By Prof. Leah Buechley, [High-Low Tech group](http://hlt.media.mit.edu/). (Courtesy of Leah Buechley. Used with permission.)

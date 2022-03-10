@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Final Project Proposal
 uid: bf92a207-caa0-3172-0b1d-ccf0f9ce4c6b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

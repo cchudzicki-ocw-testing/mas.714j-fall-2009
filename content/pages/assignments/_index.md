@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 3940422b-f70a-5acd-de7f-de33eabc7213
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents the weekly activity assignments other than those directly related to the final {{% resource_link 040f9e59-6860-d1e0-ab3c-3d65f2311165 "project" %}}.

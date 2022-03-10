@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #2: Constructionism'
 uid: 68f88ba3-97d4-8c6f-9948-b30a79997146
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Reflection and Questions

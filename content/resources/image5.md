@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: Path for an LED between + and -
 uid: e9184ea4-d9c5-fce8-92cc-34716d187f01
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

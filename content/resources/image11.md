@@ -16,4 +16,8 @@ resourcetype: Image
 title: Diagram illustrating the use of a variable graphite resistor connected to the
   tearDrop
 uid: 320ba03f-24b2-c479-5b02-0f77a530ae2a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

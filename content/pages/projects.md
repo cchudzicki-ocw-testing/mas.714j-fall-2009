@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 040f9e59-6860-d1e0-ab3c-3d65f2311165
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 For the final project, your assignment is to design and test new features, new support materials, or new activities for a creative learning technology. For documentation, you will write a "design brief" discussing the motivations, rationale, and principles underlying your design; and for our final class session, produce a poster and give a presentation.

@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: bafdf901-ca6d-7a0d-4ae9-696fcd559620
 title: 'Reading responses for Week #4: New Media Literacy'
 uid: 7df06c0f-1fcb-614d-e6cd-fff4001d06f9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Reflection and Questions
