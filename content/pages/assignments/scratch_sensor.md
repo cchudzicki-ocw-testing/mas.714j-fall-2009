@@ -16,7 +16,7 @@ video_metadata:
 
 This page was created by Amon Millner during the 2008 course. (Courtesy of Amon Millner. Used with permission.)
 
-{{< resource a23d9a04-4017-b576-c76a-947778738205 "Image, spelling 'Hook-Ups' using different physical objects." >}}
+{{< resource "a23d9a04-4017-b576-c76a-947778738205" >}}
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Getting Set Up
