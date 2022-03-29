@@ -45,7 +45,7 @@ You should create a 48" x 36" poster for the final session.
 Here are some examples of what a poster might look like (courtesy of the authors and used with permission):
 
 *   "Utilizing technology to support the development of empathy" by Anonymous MIT student and Karen Brennan ({{% resource_link a332cfdd-9e75-419e-221a-d6655b83a57a "PDF" %}})
-*   "ScratchEd" by Karen Brennan (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 11ab5c0a-ba2a-73c2-abb9-7672686f91b0 "PDF" %}})
+*   "ScratchEd" by Karen Brennan ({{% resource_link 11ab5c0a-ba2a-73c2-abb9-7672686f91b0 "PDF" %}})
 *   "A Networked, Media-Rich Programming Environment to Enhance Informal Learning and Technological Fluency at Community Technology Centers" \[Scratch\] by Mitchel Resnik, Yasmin Kafai, and John Maeda ({{% resource_link 2a897a44-1d68-73ed-969c-0995d197690b "PDF" %}})
 *   "Topic models and data portraiture" by Aaron Zinman and Doug Fritz ({{% resource_link 0c07a97f-2d02-4bdc-260c-8c53246f6887 "PDF" %}})
 
