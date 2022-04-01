@@ -18,7 +18,7 @@ By Prof. Leah Buechley, [High-Low Tech group](http://hlt.media.mit.edu/). (Court
 
 We've developed a construction kit that lets people create interactive paintings. The kit consists of conductive paint, a small magnetic "tearDrop" computer, a magnetic speaker, several lights (light emitting diodes or "LEDs"), and a few other things. Here's what it looks like:
 
-![Photo of the components in the paper computing construction kit.](/courses/media-arts-and-sciences/mas-714j-technologies-for-creative-learning-fall-2009/assignments/Image1.jpg)
+{{< resource "5d5f7cfd-6831-c064-55c5-88aeb4b0f198" >}}
 
 Paper computing construction kit.
 
