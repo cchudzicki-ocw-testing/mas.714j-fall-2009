@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of the components in the paper computing construction kit.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-714j-technologies-for-creative-learning-fall-2009/5d5f7cfd6831c06455c588aeb4b0f198_Image1.jpg
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/5d5f7cfd6831c06455c588aeb4b0f198_Image1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -21,3 +21,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Photo of the components in the paper computing construction kit.

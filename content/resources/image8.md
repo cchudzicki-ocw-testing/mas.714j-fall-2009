@@ -2,7 +2,7 @@
 content_type: resource
 description: Photo of the painted LED connection between two holes of the tearDrop
   template on paper.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-714j-technologies-for-creative-learning-fall-2009/e72727ad7dfb92e39a40408f12bf13f3_Image8.jpg
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/e72727ad7dfb92e39a40408f12bf13f3_Image8.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -22,3 +22,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Photo of the painted LED connection between two holes of the tearDrop template on paper.

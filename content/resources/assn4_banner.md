@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image, spelling 'Hook-Ups' using different physical objects.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-714j-technologies-for-creative-learning-fall-2009/a23d9a044017b576c76a947778738205_assn4_banner.jpg
+file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/a23d9a044017b576c76a947778738205_assn4_banner.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -21,3 +21,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Image, spelling 'Hook-Ups' using different physical objects.
