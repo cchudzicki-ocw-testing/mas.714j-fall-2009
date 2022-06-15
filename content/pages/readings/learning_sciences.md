@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents selected student blog responses by students to the
+  Week 3 readings.
 draft: false
 learning_resource_types:
 - Readings

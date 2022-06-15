@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page presents selected student blog responses to the week 9 readings.
 draft: false
 learning_resource_types:
 - Readings
