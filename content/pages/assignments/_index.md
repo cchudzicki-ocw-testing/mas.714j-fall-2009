@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the weekly homework assignments
+  of the course, and includes links to examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

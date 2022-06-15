@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides information on the final project of the course:
+  to design and test new features, new support materials, or new activities for a
+  creative learning technology.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

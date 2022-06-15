@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page presents selected student responses to Activity #6: Help Someone
+  Learn Scratch.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

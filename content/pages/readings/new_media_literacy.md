@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page presents selected student blog responses to the Week 4 readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

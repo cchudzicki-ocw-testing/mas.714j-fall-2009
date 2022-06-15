@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section features a video lecture on teaching critical thinking and
+  creativity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
