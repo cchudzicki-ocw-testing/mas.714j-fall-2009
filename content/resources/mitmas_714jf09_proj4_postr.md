@@ -6,6 +6,7 @@ file: /courses/mas-714j-technologies-for-creative-learning-fall-2009/24ce62fb9e8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
